@@ -1,0 +1,40 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Киноафиша</title>
+    <link rel="stylesheet" type="text/css" href="index.css" />
+</head>
+
+<body>
+    <div class="logo">
+        <img onclick="getMovies('latest')" src="images/logo.svg" height=60px;>
+    </div>
+    <div class="header">
+        <div onclick="getMovies('latest')" class="movies_box movie_1">
+            <div class="categories">
+                <h2 align="end">Новинки 2018</h2>
+            </div>
+        </div>
+        <div onclick="getMovies('upcoming')" class="movies_box movie_2">
+            <div class="categories">
+                <h2 align="end">Скоро в кинотеатрах</h2>
+            </div>
+        </div>
+        <div onclick="getMovies('popular')" class="movies_box movie_3">
+            <div class="categories">
+                <h2 align="end">В топ-чартах</h2>
+            </div>
+        </div>
+    </div>
+    <div class="sortNumb">
+        <input class="input" type="text" placeholder="Введите число">
+        <button class="button">Enter</button>
+    </div>
+    <div id="list">
+    </div>
+
+    <script type="text/javascript" src="index.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "auJHWVH4XlmnVU9",
+    "rating": 0,
+    "title": "История игрушек 4",
+    "poster": "https://image.tmdb.org/t/p/w500/lQBF6jzW2gsk3Kr7dMdqrkGaukV.jpg",
+    "genre": "Приключения",
+    "release": 1560902400
+  },
+  {
+    "id": "2GgWlmBx7R3IhDM",
+    "rating": 7.2,
+    "title": "Джон Уик 3",
+    "poster": "https://image.tmdb.org/t/p/w500/t03rHGlU5jLBGrsjPZyut6LEv53.jpg",
+    "genre": "Криминал",
+    "release": 1557878400
+  },
+  {
+    "id": "vKqLadcfNxAdG55",
+    "rating": 6.5,
+    "title": "Тайная жизнь домашних животных 2",
+    "poster": "https://image.tmdb.org/t/p/w500/6Bx6taVAegNpIocYuefHYffMFCp.jpg",
+    "genre": "Приключения",
+    "release": 1558656000
+  },
+  {
+    "id": "DorzzszN3ZMOW8P",
+    "rating": 5.6,
+    "title": "Ма",
+    "poster": "https://image.tmdb.org/t/p/w500/dw2YjheytgS5Zio8eaztvam75HP.jpg",
+    "genre": "Триллер",
+    "release": 1559088000
+  },
+  {
+    "id": "pdbVgiUP1SSlO8Q",
+    "rating": 0,
+    "title": "Человек-паук:  Вдали от дома",
+    "poster": "https://image.tmdb.org/t/p/w500/nvGJVIcffJnFeZol515tCyjV4ZJ.jpg",
+    "genre": "Боевик",
+    "release": 1561680000
+  },
+  {
+    "id": "tm48a7tUVnQeWa3",
+    "rating": 4.5,
+    "title": "Детские игры",
+    "poster": "https://image.tmdb.org/t/p/w500/eFmOJBJDfGsVRBahiHKWNVAeIjX.jpg",
+    "genre": "Ужасы",
+    "release": 1560902400
+  },
+  {
+    "id": "yVW6QbXFufQPT3h",
+    "rating": 1,
+    "title": "Анна",
+    "poster": "https://image.tmdb.org/t/p/w500/7onQnzh1c1bKiepLKXozOdPw1dP.jpg",
+    "genre": "Триллер",
+    "release": 1560988800
+  },
+  {
+    "id": "m0Dwm3WWTqXWj9b",
+    "rating": 7.6,
+    "title": "Рокетмен",
+    "poster": "https://image.tmdb.org/t/p/w500/jiAN7fC6FZDesjdHuLtCFd8kc80.jpg",
+    "genre": "Музыка",
+    "release": 1558483200
+  },
+  {
+    "id": "w8VXWP15R5IWPAg",
+    "rating": 7.2,
+    "title": "Отель Мумбаи: Противостояние",
+    "poster": "https://image.tmdb.org/t/p/w500/uHkBs4YqonjwAXEmZ6KK6C2XnXm.jpg",
+    "genre": "Триллер",
+    "release": 1552521600
+  },
+  {
+    "id": "MTDdztBYhCfvY3U",
+    "rating": 5.8,
+    "title": "Мёртвые не умирают",
+    "poster": "https://image.tmdb.org/t/p/w500/kWyUSQyQCTTCo4oxLt9Q6dI2946.jpg",
+    "genre": "Комедия",
+    "release": 1557878400
+  },
+  {
+    "id": "mkTYEu4O8FxdLU2",
+    "rating": 7.2,
+    "title": "Образование",
+    "poster": "https://image.tmdb.org/t/p/w500/2aSxRDmisJP90H3S0aocyuQIe4z.jpg",
+    "genre": "Комедия",
+    "release": 1558656000
+  },
+  {
+    "id": "wRK7w55I19za4Ba",
+    "rating": 5.1,
+    "title": "Битва за землю",
+    "poster": "https://image.tmdb.org/t/p/w500/tjaWhUnDG9vzb0jft660hNyi7Nq.jpg",
+    "genre": "Триллер",
+    "release": 1552608000
+  },
+  {
+    "id": "CFxvDbiRevkXUFm",
+    "rating": 8.1,
+    "title": "Матрица",
+    "poster": "https://image.tmdb.org/t/p/w500/zE3dfBIYNMBXQrhQaCyZl99wwS0.jpg",
+    "genre": "Боевик",
+    "release": 922752000
+  },
+  {
+    "id": "UnUc5mvNeqcbx2Z",
+    "rating": 0,
+    "title": "План побега 3",
+    "poster": "https://image.tmdb.org/t/p/w500/REpnTGCOwITVvaoqEGYUiA3Ofi.jpg",
+    "genre": "Боевик",
+    "release": 1560988800
+  },
+  {
+    "id": "wsaN66ZSnOLhV7n",
+    "rating": 5.6,
+    "title": "Гори, гори ясно",
+    "poster": "https://image.tmdb.org/t/p/w500/pY4gHv0ZkaDCpjHf7t4QDrFTRXn.jpg",
+    "genre": "Ужасы",
+    "release": 1557360000
+  },
+  {
+    "id": "u0zm5dKzHUG7IJc",
+    "rating": 0,
+    "title": "Проклятие Аннабель: Возвращение домой",
+    "poster": "https://image.tmdb.org/t/p/w500/jsbt03UnPPt14AYRMcGaoqtwNxQ.jpg",
+    "genre": "Ужасы",
+    "release": 1561507200
+  },
+  {
+    "id": "CreKIbEmgfW7hvP",
+    "rating": 7.1,
+    "title": "Игры разумов",
+    "poster": "https://image.tmdb.org/t/p/w500/gEyLiDZc9qEvd7TTCeA5j2WQ7my.jpg",
+    "genre": "Драма",
+    "release": 1551916800
+  },
+  {
+    "id": "RfTcElx8EEhFb7e",
+    "rating": 8.9,
+    "title": "Паразиты",
+    "poster": "https://image.tmdb.org/t/p/w500/wrt4l9AHo0fKlB6KXrMfYFHxCrk.jpg",
+    "genre": "Драма",
+    "release": 1559174400
+  },
+  {
+    "id": "1PazhobQlgs2ORT",
+    "rating": 6.5,
+    "title": "Борьба с моей семьей",
+    "poster": "https://image.tmdb.org/t/p/w500/cVhe15rJLRjolunSWLBN6xQLyGU.jpg",
+    "genre": "Комедия",
+    "release": 1550102400
+  },
+  {
+    "id": "mvGaTS7gCUmhjzt",
+    "rating": 6,
+    "title": "Отпетые мошенницы",
+    "poster": "https://image.tmdb.org/t/p/w500/5OGHbmurmTQWNBgpIdnI66MrEmB.jpg",
+    "genre": "Комедия",
+    "release": 1557360000
+  }
+]

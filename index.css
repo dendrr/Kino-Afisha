@@ -1,0 +1,119 @@
+body {
+    font-family: Calibri, Arial, Helvetica, sans-serif;
+    background-color: #16161A;
+    width: 1330px;
+    margin: 0 auto;
+}
+
+.logo {
+    padding: 15px 0px 0px 0px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 0px 0px 0px;
+    height: 225px;
+}
+
+.movies_box {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 420px;
+    box-shadow: 0px 0px 5px black;
+    box-shadow: inset 0 -17px 17px #000000;
+    border: 1px solid #000000;
+}
+
+.movie_1 {
+    background-image: url("images/filter-1.jpg");
+    }
+
+.movie_2 {
+    background-image: url("images/filter-2.jpg");
+    }
+
+.movie_3 {
+    background-image: url("images/filter-3.jpg");
+    }
+.movie_1:hover {
+    border: 1px solid white;
+}
+.movie_2:hover {
+    border: 1px solid white;
+}
+.movie_3:hover {
+    border: 1px solid white;
+}
+
+.categories {
+    margin-top: 185px;
+    margin-right: 15px;
+    font-size: 18px;
+    color: white;
+}
+
+.input {
+    height: 40px;
+    width: 325px;
+    font-size: 20px;
+}
+
+.button {
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+}
+
+.sortNumb {
+    margin-top: 3%;
+    text-align: center
+}
+
+#list {
+    display: flex;
+    justify-content: space-between;
+    width: 1330px;
+    flex-wrap: wrap;
+}
+
+.divListItem {
+    margin-top: 20px;
+    height: 370px;
+    width: 225px;
+    border-radius: 10px 10px 0px 0px;
+    box-shadow: inset 0 -23px 20px #000000;
+    /* transition: transform 0.3s ease; */
+}
+.divListItem :hover {
+    transform: translateY(-3px);
+}
+
+.imgMovie {
+    position: relative;
+    top: -40px;
+    height: 340px;
+    width: 225px;
+    box-shadow: inset 0 -23px 20px #000000;
+    z-index: -1;
+}
+
+.genre {
+    position: relative;
+    top: -20px;
+    border-radius: 10px 10px 0px 0px;
+    text-align: center;
+    width: 100%;
+    background-color: #35354B;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.rating {
+    position: relative;
+    bottom: 110px;
+    text-align: center; 
+    color: white;
+    font-size: 40px;
+}

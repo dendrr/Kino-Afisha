@@ -1,0 +1,162 @@
+[
+  {
+    "id": "H2ta1u38VHgyTN9",
+    "rating": 9,
+    "title": "Непохищенная невеста",
+    "poster": "https://image.tmdb.org/t/p/w500/sctBFkLHYYqaHHNJj7r1jSOkfB9.jpg",
+    "genre": "Комедия",
+    "release": 814147200
+  },
+  {
+    "id": "jEGwgcYUsy5EtSq",
+    "rating": 8.9,
+    "title": "Паразиты",
+    "poster": "https://image.tmdb.org/t/p/w500/wrt4l9AHo0fKlB6KXrMfYFHxCrk.jpg",
+    "genre": "Драма",
+    "release": 1559174400
+  },
+  {
+    "id": "HNai5yTmVUplyXf",
+    "rating": 8.7,
+    "title": "Побег из Шоушенка",
+    "poster": "https://image.tmdb.org/t/p/w500/yvmKPlTIi0xdcFQIFcQKQJcI63W.jpg",
+    "genre": "Драма",
+    "release": 780278400
+  },
+  {
+    "id": "019SwPJSFCZn4Ga",
+    "rating": 8.6,
+    "title": "Крестный отец",
+    "poster": "https://image.tmdb.org/t/p/w500/gZUc6DbAirZGWJL1685jsOd90Sf.jpg",
+    "genre": "Драма",
+    "release": 69379200
+  },
+  {
+    "id": "Nj9flVg9LL77EQe",
+    "rating": 8.6,
+    "title": "Твоё имя",
+    "poster": "https://image.tmdb.org/t/p/w500/9lc8IGK2zQnWpR1SCf2pl4Q0fSW.jpg",
+    "genre": "Мелодрама",
+    "release": 1472169600
+  },
+  {
+    "id": "oXBcA8NLXBPWjeu",
+    "rating": 8.5,
+    "title": "Список Шиндлера",
+    "poster": "https://image.tmdb.org/t/p/w500/4K8fGGcJP2EoGDucILnaJcOJhZl.jpg",
+    "genre": "Драма",
+    "release": 755913600
+  },
+  {
+    "id": "27NoKDdP93fmDa3",
+    "rating": 8.5,
+    "title": "Крестный отец 2",
+    "poster": "https://image.tmdb.org/t/p/w500/jDaC944dvUc1a4M1vp0oSW1XDak.jpg",
+    "genre": "Драма",
+    "release": 156729600
+  },
+  {
+    "id": "ZUQGUTouK0AVwVn",
+    "rating": 8.5,
+    "title": "Унесённые призраками",
+    "poster": "https://image.tmdb.org/t/p/w500/5tHJGgjCf96Uli8v12VdwCkYq1g.jpg",
+    "genre": "Мультфильм",
+    "release": 995587200
+  },
+  {
+    "id": "AuXHao3ErdzxMDG",
+    "rating": 8.5,
+    "title": "Зелёная миля",
+    "poster": "https://image.tmdb.org/t/p/w500/9QyCBlmVtGn9daAclMFHwprzElR.jpg",
+    "genre": "Фэнтези",
+    "release": 944784000
+  },
+  {
+    "id": "DXPy307GnTkSSKm",
+    "rating": 8.4,
+    "title": "Жизнь прекрасна",
+    "poster": "https://image.tmdb.org/t/p/w500/4CfBbnmjyXANupnKmC0OimKhiQI.jpg",
+    "genre": "Комедия",
+    "release": 882576000
+  },
+  {
+    "id": "cn3cWqVmNk4KgTG",
+    "rating": 8.4,
+    "title": "Криминальное чтиво",
+    "poster": "https://image.tmdb.org/t/p/w500/tEfPt3FQ1on0DLRM3QOlliLc9Lk.jpg",
+    "genre": "Триллер",
+    "release": 779155200
+  },
+  {
+    "id": "T8EJQRC9YTLopOl",
+    "rating": 8.4,
+    "title": "Человек-паук: Через вселенные",
+    "poster": "https://image.tmdb.org/t/p/w500/dEh3ksfCPRp41Q6RPkIjI64Zfr1.jpg",
+    "genre": "Боевик",
+    "release": 1544054400
+  },
+  {
+    "id": "igGntD7FXoQpckp",
+    "rating": 8.4,
+    "title": "Ауто о сострадании",
+    "poster": "https://image.tmdb.org/t/p/w500/uHEmM49YphluJnGep8Ef1qwD2QX.jpg",
+    "genre": "Приключения",
+    "release": 968976000
+  },
+  {
+    "id": "Ezz0J9C7JhuGyZ8",
+    "rating": 8.4,
+    "title": "Мстители: Финал",
+    "poster": "https://image.tmdb.org/t/p/w500/4fjlSFUoW6L9FSAE5knxjjUDd6v.jpg",
+    "genre": "Приключения",
+    "release": 1556064000
+  },
+  {
+    "id": "cgbn23oS5e24Na6",
+    "rating": 8.4,
+    "title": "Тёмный рыцарь",
+    "poster": "https://image.tmdb.org/t/p/w500/zHmfOXRgcUb2Sd79bttsZNokYbS.jpg",
+    "genre": "Драма",
+    "release": 1216166400
+  },
+  {
+    "id": "eGxm2Rm7qBlxBt6",
+    "rating": 8.4,
+    "title": "Форрест Гамп",
+    "poster": "https://image.tmdb.org/t/p/w500/oTiRsQCIHJPUR7wA1chpTf8j9go.jpg",
+    "genre": "Комедия",
+    "release": 773452800
+  },
+  {
+    "id": "JwUZ1oyy93nMnS2",
+    "rating": 8.4,
+    "title": "Харакири",
+    "poster": "https://image.tmdb.org/t/p/w500/5konZnIbcAxZjP616Cz5o9bKEfW.jpg",
+    "genre": "Боевик",
+    "release": -230256000
+  },
+  {
+    "id": "JaMS5w88pmQgoF3",
+    "rating": 8.4,
+    "title": "Бойцовский клуб",
+    "poster": "https://image.tmdb.org/t/p/w500/hTjHSmQGiaUMyIx3Z25Q1iktCFD.jpg",
+    "genre": "Драма",
+    "release": 939945600
+  },
+  {
+    "id": "ok8Ls2EdadeoJd1",
+    "rating": 8.4,
+    "title": "Психо",
+    "poster": "https://image.tmdb.org/t/p/w500/7dTAKbjjD0Mq4P4drYcmikEi6a8.jpg",
+    "genre": "Ужасы",
+    "release": -301190400
+  },
+  {
+    "id": "SohFqTeI5faVJpS",
+    "rating": 8.4,
+    "title": "Евангелион нового поколения: Конец Евангелиона",
+    "poster": "https://image.tmdb.org/t/p/w500/5JYzfyKBwReaQ41WFhqXgOZnPWV.jpg",
+    "genre": "Драма",
+    "release": 869270400
+  }
+]
